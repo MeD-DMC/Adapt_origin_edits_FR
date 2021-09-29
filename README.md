@@ -1,4 +1,7 @@
 # Adapt_origin_edits_FR
+
+Customized backend files for ESDC tracking.
+
 en.json goes into temp/lang/
 
 fr.json goes into temp/lang/
