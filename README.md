@@ -6,7 +6,7 @@ en.json goes into temp/lang/
 
 fr.json goes into temp/lang/
 
-adapt.css goes into frontend/build/
+adapt.css goes into frontend/build/css/
 
 origin.js goes into frontend/build/js/
 
